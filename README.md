@@ -1,20 +1,17 @@
-# Disc_Fisiologia_Vegetal_Meteo
-Repositório para dados da disciplina de Fisiologia Vegetal e Necessidades Hídricas.
-# Computação Aplicada às Ciências Atmosféricas II
-
-Disciplina: Computação Aplicada às Ciências Atmosféricas II
+# Fisiologia Vegetal e Necessidades Hídricas
+Disciplina: Fisiologia Vegetal e Necessidades Hídricas
 
 Curso: Meteorologia / Campus UEMA-São Luís
 
 Nível: Graduação
 
-Código: ASLMTO28 – Matutino – 2026.2
+Código: ASLMTO02 – Matutino – 2026.2
 
-Horário: 07h:30 – 10h:50 (Quinta-Feira)
+Horário: 08h:20 – 11h:40 (Sexta-Feira)
 
 Contato: izadorasccs@gmail.com
 
-Sala: Laboratório de Geoprocessamento
+Sala: Sala 03; Laboratório de Geoprocessamento.
 
 ## Repositório para arquivos das aulas.
 
