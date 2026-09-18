@@ -20,7 +20,7 @@ Sala: Sala 03; Laboratório de Geoprocessamento.
 - Aula 1: [Slides](https://canva.link/j6dqq9mdb4emabj)
 - Aula 2 e 3: [Slides](https://canva.link/944y675toqpnmxm)
 - Aula Prática (18/09/2026):
-   - Script - Prática Dinâmica de Água no Solo: dados de umidade do solo: [Link]([https://colab.research.google.com/drive/1ENCjfXbZsabJVlIiB8SnJiHP0SjSV5am?usp=sharing](https://colab.research.google.com/drive/1rWKbWDHm_eCH0zLgrg5jaR8KxcJ363gU?usp=sharing))
+   - Script - Prática Dinâmica de Água no Solo: dados de umidade do solo: [Link](https://colab.research.google.com/drive/1rWKbWDHm_eCH0zLgrg5jaR8KxcJ363gU?usp=sharing)
    
   ## Referências Complementares:
   - Artigo 1: Alves, et al. Impactos de Mudanças Climáticas para a Fisiologia e Morfologia Vegetal e à Sociedade.
