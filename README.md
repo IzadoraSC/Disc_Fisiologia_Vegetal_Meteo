@@ -24,7 +24,7 @@ Sala: Sala 03; Laboratório de Geoprocessamento.
 - Aula 4 e 5: [Slides](https://canva.link/ock4a8vcbi013da)
 - Aula 6: [Slides](https://canva.link/qddgb0i8vqjrp0t)
 - Aula 7: [Slides](https://canva.link/dvqtxtrqktkyedm)
-   - Prática - Índices de Vegetação (análise de atividade fotossintética):[Link]()
+   - Prática - Índices de Vegetação (análise de atividade fotossintética):[Link](https://colab.research.google.com/drive/1J7GPnI1a3862liKGDy_Y13m5YiDuvA-l?usp=sharing)
    
   ## Referências Complementares:
   - Artigo 1: Alves, et al. Impactos de Mudanças Climáticas para a Fisiologia e Morfologia Vegetal e à Sociedade.
